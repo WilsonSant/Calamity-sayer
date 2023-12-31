@@ -1,6 +1,6 @@
 # Calamity-Sayer
 
-Fork do Calamity-Sayer 
+Fork do soothsayer 
 
 ## Uso
 
